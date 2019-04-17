@@ -1,3 +1,12 @@
+# Text2mp4
+
+## How to use this concise web app :
+### -> Follow the steps below to install all requirements and launch on localhost.
+### -> Upload a PDF file and wait for it to compile and convert (Might take some time, depends on length of document)
+### -> Scroll down in the website to the table, and open up the video to the first row(It contains the pdf uploaded and the video converted), the latest one.
+### Enjoy !
+
+
 ## Contains the project for our submission at Ultrahack
 
 ###### Includes the algorithm (Uses nltk, gensim, PIL, moviepy and more)
