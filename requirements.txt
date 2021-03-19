@@ -16,7 +16,7 @@ Django==1.11.20
 django-bootstrap4==0.0.8
 django-ckeditor==5.6.1
 django-js-asset==1.1.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.1.4
 docutils==0.14
 enum34==1.1.6
